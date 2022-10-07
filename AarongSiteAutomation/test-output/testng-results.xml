@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-12T19:29:56 BDT" name="Default suite" finished-at="2022-09-12T19:31:17 BDT" duration-ms="81729">
+    <groups>
+    </groups>
+    <test started-at="2022-09-12T19:29:56 BDT" name="Default test" finished-at="2022-09-12T19:31:17 BDT" duration-ms="81729">
+      <class name="com.automation.Login">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.automation.Login@4c60d6e9]" started-at="2022-09-12T19:29:51 BDT" name="start" finished-at="2022-09-12T19:29:56 BDT" duration-ms="4718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="openUrl()[pri:0, instance:com.automation.Login@4c60d6e9]" started-at="2022-09-12T19:29:56 BDT" name="openUrl" finished-at="2022-09-12T19:31:04 BDT" duration-ms="68387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="LoginUrl()[pri:1, instance:com.automation.Login@4c60d6e9]" started-at="2022-09-12T19:31:04 BDT" name="LoginUrl" finished-at="2022-09-12T19:31:12 BDT" duration-ms="7797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUrl -->
+        <test-method signature="LoginSubmit()[pri:2, instance:com.automation.Login@4c60d6e9]" started-at="2022-09-12T19:31:12 BDT" name="LoginSubmit" finished-at="2022-09-12T19:31:17 BDT" duration-ms="5492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSubmit -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.automation.Login@4c60d6e9]" started-at="2022-09-12T19:31:17 BDT" name="close" finished-at="2022-09-12T19:31:18 BDT" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automation.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
